@@ -1,0 +1,9 @@
+.mainContent {
+  display: flex;
+}
+.mainContentLeft {
+  width: 70%;
+}
+.mainContentRight {
+  margin-left: 10px;
+}

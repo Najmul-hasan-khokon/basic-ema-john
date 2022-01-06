@@ -1,0 +1,13 @@
+.containerDiv {
+  display: flex;
+  border-right: 1px solid grey;
+  padding: 20px;
+  /* width: 70%; */
+  border-bottom: 1px solid gray;
+}
+.left_area {
+  margin-right: 10px;
+}
+.right_area {
+  color: red;
+}
